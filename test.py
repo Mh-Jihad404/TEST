@@ -1,2 +1,2 @@
-from test import MR_SECURITY
-MR_SECURITY()
+from test import MR_DIPTO
+MR_DIPTO()
